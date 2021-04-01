@@ -1,3 +1,3 @@
 # Decoverto playground
 
-Open StackBlitz at <https://stackblitz.com/github/decoverto/playground>.
+Open playground at <https://codesandbox.io/s/github/decoverto/playground>.
