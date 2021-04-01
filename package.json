@@ -11,7 +11,9 @@
     },
     "homepage": "https://github.com/decoverto/playground",
     "scripts": {
-        "lint": "eslint index.ts \"src/**/*.ts\""
+        "build": "parcel build index.html",
+        "lint": "eslint index.ts \"src/**/*.ts\"",
+        "start": "parcel index.html --open"
     },
     "dependencies": {
         "decoverto": "^0.2.1",
