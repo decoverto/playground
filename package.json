@@ -1,0 +1,17 @@
+{
+    "name": "decoverto-playground",
+    "version": "0.0.0",
+    "private": true,
+    "repository": "github:decoverto/playground",
+    "author": "Matthias Kunnen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/decoverto/playground/issues"
+    },
+    "homepage": "https://github.com/decoverto/playground",
+    "dependencies": {
+        "tslib": "^2.0.1",
+        "reflect-metadata": "^0.1.13",
+        "typescript": "^3.9.7"
+    }
+}
