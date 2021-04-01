@@ -10,9 +10,15 @@
         "url": "https://github.com/decoverto/playground/issues"
     },
     "homepage": "https://github.com/decoverto/playground",
+    "scripts": {
+        "lint": "eslint index.ts \"src/**/*.ts\""
+    },
     "dependencies": {
         "decoverto": "^0.2.1",
         "reflect-metadata": "^0.1.13",
         "typescript": "^3.9.7"
+    },
+    "devDependencies": {
+        "@matthiaskunnen/eslint-config-typescript": "^3.2.0"
     }
 }

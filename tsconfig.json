@@ -2,6 +2,9 @@
     "compilerOptions": {
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
+        "lib": [
+            "DOM"
+        ],
         "module": "CommonJS",
         "moduleResolution": "node",
         "strict": true,
