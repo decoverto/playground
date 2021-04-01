@@ -10,15 +10,9 @@
         "url": "https://github.com/decoverto/playground/issues"
     },
     "homepage": "https://github.com/decoverto/playground",
-    "scripts": {
-        "start:local": "ts-node index.ts"
-    },
     "dependencies": {
         "decoverto": "^0.2.1",
         "reflect-metadata": "^0.1.13",
         "typescript": "^3.9.7"
-    },
-    "devDependencies": {
-        "ts-node": "^9.1.1"
     }
 }
