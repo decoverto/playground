@@ -11,7 +11,7 @@
     },
     "homepage": "https://github.com/decoverto/playground",
     "scripts": {
-        "start": "ts-node index.ts"
+        "start:local": "ts-node index.ts"
     },
     "dependencies": {
         "decoverto": "^0.2.1",
