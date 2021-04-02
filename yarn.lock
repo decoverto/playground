@@ -612,10 +612,10 @@ debug@^4.0.1, debug@^4.1.0, debug@^4.1.1:
   dependencies:
     ms "2.1.2"
 
-decoverto@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/decoverto/-/decoverto-0.2.1.tgz#72b196c94d3f4f1d50ee7ed2ae21133d0791fb05"
-  integrity sha512-yGV514SbdbBBYxLrmtqAV7YfeGq/APK7gFw/KnmrbY+J7/RDhzWpQxCfS3UJnAB9KKIIhDknha7791vlkwXleg==
+decoverto@~0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decoverto/-/decoverto-0.2.2.tgz#a4014ac1eb0f4aeeec479e07eba9414f5ed8a27c"
+  integrity sha512-JOi+ilLUt8DRyHD9dyC1TW6f23JM29iWtM9QPJiIKxuu7ByfMSq+OiyzI5X0SLM6xjiUD8rufrAKfR+0iefkEA==
   dependencies:
     tslib "^2.0.1"
 

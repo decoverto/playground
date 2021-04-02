@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "bignumber.js": "^9.0.1",
-        "decoverto": "^0.2.1",
+        "decoverto": "~0.2.2",
         "reflect-metadata": "^0.1.13",
         "typescript": "^3.9.7"
     },
