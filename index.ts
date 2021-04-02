@@ -9,3 +9,4 @@ your own code.`)
 // import './src/inheritance-discriminator';
 // import './src/inheritance-predicate';
 // import './src/mapped-types';
+// import './src/nested-class';
