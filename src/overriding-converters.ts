@@ -1,3 +1,4 @@
+// Uncomment the ./src/overriding-converters import in index.ts to run this example
 import {Decoverto, model, property} from 'decoverto';
 
 /*

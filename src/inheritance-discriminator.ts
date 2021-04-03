@@ -1,3 +1,4 @@
+// Uncomment the ./src/inheritance-discriminator import in index.ts to run this example
 import {Decoverto, inherits, model, property} from 'decoverto';
 
 @model({

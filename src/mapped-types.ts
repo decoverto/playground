@@ -1,3 +1,4 @@
+// Uncomment the ./src/mapped-types import in index.ts to run this example
 import {ConversionContext, Decoverto, model, property, SimpleConverter} from 'decoverto';
 import Decimal from 'bignumber.js';
 

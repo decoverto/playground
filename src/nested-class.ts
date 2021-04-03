@@ -1,3 +1,4 @@
+// Uncomment the ./src/nested-class import in index.ts to run this example
 import {model, property, MapShape, array, map, Decoverto} from 'decoverto';
 
 @model()

@@ -1,3 +1,4 @@
+// Uncomment the ./src/basic-class import in index.ts to run this example
 import {model, map, MapShape, property, Decoverto} from 'decoverto';
 
 @model()
