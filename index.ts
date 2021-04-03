@@ -10,3 +10,4 @@ your own code. Keep the browser window open to view errors.`)
 // import './src/inheritance-predicate';
 // import './src/mapped-types';
 // import './src/nested-class';
+// import './src/overriding-converters'
